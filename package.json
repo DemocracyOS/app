@@ -79,7 +79,7 @@
     "cookie-parser": "1.4.3",
     "cors": "~2.8.1",
     "debug": "~2.6.3",
-    "del": "~2.2.2",
+    "del": "~8.0.0",
     "democracyos-aurora-calendar": "^1.0.0",
     "democracyos-aurora-popover": "0.0.1",
     "democracyos-aurora-tip": "^1.0.0",
